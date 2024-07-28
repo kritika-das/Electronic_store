@@ -17,4 +17,3 @@
 ![order table created](https://github.com/user-attachments/assets/aca7a0f5-bf2a-40ea-be46-fbc2f9e82972)
 ![create order](https://github.com/user-attachments/assets/ca220388-c0f8-4559-869f-3c67e5da0414)
 ![Screenshot 2024-07-13 125731](https://github.com/user-attachments/assets/f13ae5a7-32dc-41f3-bb55-124a9120b32c)
-![Screenshot 2024-07-13 181248](https://github.com/user-attachments/assets/e4251572-fbe5-42df-8088-176c244a2108)
